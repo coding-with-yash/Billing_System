@@ -1,0 +1,23 @@
+	 Welcome Yash Reatil 
+
+ Bill Number:1949
+ Customer Name: Rahul
+ Phone Number: 8976545313
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Bath Soap   10      15        150
+ Face Cream  1      100       100
+ Face Wash   3      80        240
+ Rice        1      10        10
+ Sugar       5      35        175
+ Limca       50      20        1000
+ Sprite      45      38        1710
+====================================
+ Cosmetics Tax:  24.5
+ Grocery Tax:    9.25
+ Cold Drink Tax: 135.5
+ Total Tax:      169.25
+ Total Price:    3385.0
+ Total Amount:    3554.25

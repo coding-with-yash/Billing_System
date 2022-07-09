@@ -1,0 +1,22 @@
+	 Welcome Yash Reatil 
+
+ Bill Number:5564
+ Customer Name: Yash
+ Phone Number: 9996634512
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Bath Soap   10      15        150
+ Face Cream  10      100       1000
+ Hair Gell   4      40        160
+ Food Oil    3      120       360
+ Maza        10      25        75
+ Sprite      2      38        76
+====================================
+ Cosmetics Tax:  65.5
+ Grocery Tax:    18.0
+ Cold Drink Tax: 7.55
+ Total Tax:      91.05
+ Total Price:    1821.0
+ Total Amount:    1912.05

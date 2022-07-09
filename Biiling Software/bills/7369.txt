@@ -1,0 +1,21 @@
+	 Welcome Yash Reatil 
+
+ Bill Number:7369
+ Customer Name: r
+ Phone Number: 12345
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Bath Soap   1      15        15
+ Food Oil    1      120       120
+ Limca       1      20        20
+ Sprite      3      38        114
+ Frooti      5      15        75
+====================================
+ Cosmetics Tax:  0.75
+ Grocery Tax:    6.0
+ Cold Drink Tax: 10.45
+ Total Tax:      17.2
+ Total Price:    344.0
+ Total Amount:    361.2

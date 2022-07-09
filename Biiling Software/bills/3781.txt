@@ -1,0 +1,26 @@
+	 Welcome Yash Reatil 
+
+ Bill Number:3781
+ Customer Name: Chetan Barde
+ Phone Number: 7558323203
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Bath Soap   12      15        180
+ Face Cream  1      100       100
+ Face Wash   2      80        160
+ Hair Gell   5      40        200
+ Food Oil    2      120       240
+ Tea         2      10        20
+ Maza        12      25        100
+ Limca       1      20        20
+ Sprite      30      38        1140
+ Frooti      5      15        75
+====================================
+ Cosmetics Tax:  32.0
+ Grocery Tax:    13.0
+ Cold Drink Tax: 66.75
+ Total Tax:      111.75
+ Total Price:    2235.0
+ Total Amount:    2346.75

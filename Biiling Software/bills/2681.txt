@@ -1,0 +1,36 @@
+	 Welcome Yash Reatil 
+
+ Bill Number:4576
+ Customer Name: 2
+ Phone Number: 2
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Rice        2      10        20
+ Food Oil    2      120       240
+====================================
+ Cosmetics Tax:  0.0
+ Grocery Tax:    13.0
+ Cold Drink Tax: 0.0
+ Total Tax:      13.0
+ Total Price:    260.0
+ Total Amount:    273.0	 
+
+	Welcome Yash Reatil 
+
+ Bill Number:2681
+ Customer Name: 2
+ Phone Number: 2
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Frooti      2      15        30
+====================================
+ Cosmetics Tax:  0.0
+ Grocery Tax:    0.0
+ Cold Drink Tax: 1.5
+ Total Tax:      1.5
+ Total Price:    30.0
+ Total Amount:    31.5

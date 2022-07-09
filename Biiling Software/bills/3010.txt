@@ -1,0 +1,19 @@
+	 Welcome Yash Reatil 
+
+ Bill Number:3010
+ Customer Name: Sarthak
+ Phone Number: 1234
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Bath Soap   1      15        15
+ Food Oil    1      120       120
+ Sprite      1      38        38
+====================================
+ Cosmetics Tax:  0.75
+ Grocery Tax:    6.0
+ Cold Drink Tax: 1.9
+ Total Tax:      8.65
+ Total Price:    173.0
+ Total Amount:    181.65

@@ -1,0 +1,21 @@
+	 	 Welcome Yash Reatil 
+
+ Bill Number:9002
+ Customer Name: Yash
+ Phone Number: 786452412
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Bath Soap   10      15        150
+ Face Cream  10      100       1000
+ Sugar       3      35        105
+ Limca       12      20        240
+ Frooti      18      15        270
+====================================
+ Cosmetics Tax:  57.5
+ Grocery Tax:    5.25
+ Cold Drink Tax: 25.5
+ Total Tax:      88.25
+ Total Price:    1765.0
+ Total Amount:    1853.25

@@ -1,0 +1,25 @@
+	 Welcome Yash Reatil 
+
+ Bill Number:9890
+ Customer Name: Yash Dhage
+ Phone Number: 8796542390
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Bath Soap   1      15        15
+ Face Cream  3      100       300
+ Hair Gell   7      40        280
+ Rice        2      10        20
+ Sugar       6      35        210
+ Tea         8      10        80
+ Maza        1      25        25
+ Sprite      3      38        114
+ Frooti      4      15        60
+====================================
+ Cosmetics Tax:  29.75
+ Grocery Tax:    15.5
+ Cold Drink Tax: 9.95
+ Total Tax:      55.2
+ Total Price:    1104.0
+ Total Amount:    1159.2

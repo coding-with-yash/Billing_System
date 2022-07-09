@@ -1,0 +1,27 @@
+	 Welcome Yash Reatil 
+
+ Bill Number:9729
+ Customer Name: Yash
+ Phone Number: 8975776375
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================	 Welcome Yash Reatil 
+
+ Bill Number:9729
+ Customer Name: Yash
+ Phone Number: 8975776375
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Bath Soap   2      15        30
+ Food Oil    3      120       360
+ Sprite      4      38        152
+====================================
+ Cosmetics Tax:  1.5
+ Grocery Tax:    18.0
+ Cold Drink Tax: 7.6
+ Total Tax:      27.1
+ Total Price:    542.0
+ Total Amount:    569.1

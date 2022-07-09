@@ -1,0 +1,28 @@
+	 Welcome Yash Reatil 
+
+ Bill Number:7712
+ Customer Name: Parasad
+ Phone Number: 45678
+====================================
+ Product    Qty    Price   Total
+  Name                     price
+====================================
+ Bath Soap   2      15        30
+ Face Cream  4      100       400
+ Face Wash   7      80        560
+ Hair Gell   1      40        40
+ Rice        1      10        10
+ Food Oil    11      120       1320
+ Sugar       30      35        1050
+ Tea         30      10        300
+ Maza        2      25        150
+ Limca       20      20        400
+ Sprite      100      38        3800
+ Frooti      20      15        300
+====================================
+ Cosmetics Tax:  51.5
+ Grocery Tax:    134.0
+ Cold Drink Tax: 232.5
+ Total Tax:      418.0
+ Total Price:    8360.0
+ Total Amount:    8778.0
